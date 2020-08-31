@@ -1,0 +1,22 @@
+{
+  "disciplinas": [
+    {
+      "nome": "Web",
+      "curso": "SI",
+      "capacidade": "50",
+      "id": 1
+    },
+    {
+      "nome": "FBD",
+      "curso": "ES",
+      "capacidade": "50",
+      "id": 2
+    },
+    {
+      "nome": "Redes de Computadores",
+      "curso": "SI",
+      "capacidade": "52",
+      "id": 3
+    }
+  ]
+}
